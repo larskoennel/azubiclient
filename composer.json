@@ -2,10 +2,7 @@
     "name": "larskoennel/azubiclient",
     "description": "",
     "keywords": [
-        "swagger",
-        "php",
-        "sdk",
-        "api"
+        ""
     ],
     "homepage": "http://swagger.io",
     "license": "proprietary",
